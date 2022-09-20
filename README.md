@@ -3,9 +3,9 @@
 
 ## PLAY ON ITCH.IO: https://fbatuhanr.itch.io/hundred-percent
 
-RULES:
-● You can start from any cell you want.
-● You can place the next number in cells 3 units away (or diagonally 2) from the current cell.
-● You can use the “HINT” button to see the cells that can go.
-● You must continue to follow these rules and fill in all cells 1 to 100.
-● You can use the “UNDO” button at each step to undo your last move.
+### RULES:
+#### ● You can start from any cell you want.
+#### ● You can place the next number in cells 3 units away (or diagonally 2) from the current cell.
+#### ● You can use the “HINT” button to see the cells that can go.
+#### ● You must continue to follow these rules and fill in all cells 1 to 100.
+#### ● You can use the “UNDO” button at each step to undo your last move.
